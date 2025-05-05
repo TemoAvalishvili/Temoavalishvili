@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://temoavalishvili.vercel.app/](https://temoavalishvili.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://temoavalishvili.vercel.app/](https://ta-portfolio-psi.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/temo-avalishvili7/](https://www.linkedin.com/in/temo-avalishvili7/)
 
