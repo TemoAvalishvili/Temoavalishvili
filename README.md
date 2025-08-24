@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Temo Avalishvili</h1>
-<h3 align="center">Professional Front end developer from Country Georgia</h3>
+<h3 align="center">Professional Full stack developer from Country Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temoavalishvili&label=Profile%20views&color=0e75b6&style=flat" alt="temoavalishvili" /> </p>
-
-- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://temoavalishvili.vercel.app/](https://ta-portfolio-psi.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/temo-avalishvili7/](https://www.linkedin.com/in/temo-avalishvili7/)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **Temo.avalishvili7@gmail.com**
 
